@@ -1,0 +1,8 @@
+{
+  "version": "1.0.7",
+  "mac_url": "https://github.com/samaroapp/samaro-lightroom-releases/releases/download/plugin-v1.0.7-uat/Samaro-Plugin-Mac-v1.0.7.zip",
+  "win_url": "https://github.com/samaroapp/samaro-lightroom-releases/releases/download/plugin-v1.0.7-uat/Samaro-Plugin-Windows-v1.0.7.zip",
+  "mac_size_mb": "8.8",
+  "win_size_mb": "9.0",
+  "min_lr_version": "12"
+}
