@@ -1,9 +1,9 @@
 {
-  "version": "1.2.7",
-  "mac_url": "https://github.com/samaroapp/samaro-lightroom-releases/releases/download/plugin-v1.2.7-uat/Samaro-Plugin-Mac-v1.2.7.zip",
-  "win_url": "https://github.com/samaroapp/samaro-lightroom-releases/releases/download/plugin-v1.2.7-uat/Samaro-Plugin-Windows-v1.2.7.zip",
-  "mac_sha256": "044cb23e8cbd0f84606183c90ad87922c61b0a80c6c8d653b76db2f1efa97aa1",
-  "win_sha256": "3f79d02e276ac0f7a52d1dfbeca327159cebcd1a5bfdaac544f284d25806c197",
+  "version": "1.2.8",
+  "mac_url": "https://github.com/samaroapp/samaro-lightroom-releases/releases/download/plugin-v1.2.8-uat/Samaro-Plugin-Mac-v1.2.8.zip",
+  "win_url": "https://github.com/samaroapp/samaro-lightroom-releases/releases/download/plugin-v1.2.8-uat/Samaro-Plugin-Windows-v1.2.8.zip",
+  "mac_sha256": "a497a619fcf0e41f647606118fc90cd86f0a85d520c40c6252101a5f9411505b",
+  "win_sha256": "bd9a1d1bbeefe5277d3fc809582e7bb3c96a8a5804cf8e36017d016eeb2d63af",
   "mac_size_mb": "9.0",
   "win_size_mb": "8.0",
   "min_lr_version": "12"
